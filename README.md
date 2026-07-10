@@ -14,23 +14,25 @@ AI & Big Data undergraduate interested in
 ## About Me
 
 - 🎓 AI & Big Data Convergence student at Dongyang University
-- 🔧 Interested in building reliable backend systems and developer platforms
+- 🔧 Building backend fundamentals with Python, FastAPI, SQL, Docker, and Linux
 - 🔍 I enjoy debugging, tracing root causes, and turning ideas into working systems
-- 🌱 Currently strengthening my fundamentals in Python, FastAPI, Docker, Linux, and algorithms
+- 🌱 Currently exploring Backend, DevOps, and Platform Engineering
+- 🎯 Long-term goal: grow from Backend Engineering toward Platform and AI Infrastructure
 
 ---
 
 ## Tech Focus
 
-### Currently Using
+### Working With
 
 `Python` · `FastAPI` · `SQL` · `Git` · `GitHub` · `Linux`
 
 ### Currently Learning
 
-`Docker` · `Backend Architecture` · `REST API` · `Data Structures & Algorithms`
+`Docker` · `REST API` · `Backend Architecture`  
+`Data Structures & Algorithms` · `Deployment Fundamentals`
 
-### Long-term Direction
+### Future Direction
 
 `Backend Engineering` → `DevOps / Platform Engineering` → `AI Platform / MLOps`
 
@@ -38,38 +40,65 @@ AI & Big Data undergraduate interested in
 
 ## Featured Projects
 
-### 🌱 Smart Farm Auto Control
+### [🌱 Smart Farm Auto Control](https://github.com/projcw/smart-farm-auto-control)
 
-Raspberry Pi-based smart farm system with sensor monitoring,  
-condition-based watering, logging, and hardware troubleshooting.
+A Raspberry Pi-based smart farm system that monitors environmental conditions  
+and automatically controls a water pump.
 
 **What I worked on**
 
 - Integrated soil-moisture and temperature/humidity sensors
-- Controlled a water pump through GPIO and a relay module
-- Implemented conditional watering and system logging
-- Traced hardware and power issues through step-by-step debugging
+- Controlled a water pump using GPIO and a relay module
+- Implemented condition-based watering and system logging
+- Diagnosed wiring, GPIO, relay, and power-supply issues
+- Led the team and completed the project with the highest evaluation
 
-### ⚙️ Backend Study
+---
 
-Hands-on practice repository for Python and FastAPI fundamentals.
+### [⚙️ Backend Study](https://github.com/projcw/backend-study)
+
+A hands-on repository for strengthening Python and FastAPI backend fundamentals.
 
 **Current topics**
 
 - API routing and request handling
-- Data validation
-- Error handling
+- Data validation and error handling
+- REST API fundamentals
 - Backend project structure
-- Git-based daily development records
+- Git-based development records
 
 ---
 
-## What I'm Working On
+### [📚 TIL](https://github.com/projcw/TIL)
 
-- Building backend fundamentals through small, executable projects
-- Solving coding-test problems with Python
-- Recording meaningful progress through code, README updates, and commits
-- Learning how backend systems move toward deployment and platform operations
+Daily notes and practice records from my software engineering studies.
+
+**Topics include**
+
+- Python and coding-test practice
+- Backend development concepts
+- Git and GitHub workflows
+- Linux and development tools
+- Debugging notes and lessons learned
+
+---
+
+## Current Goals
+
+- Strengthen Python and backend fundamentals
+- Build small but complete FastAPI projects
+- Improve algorithm and problem-solving skills
+- Learn Docker, Linux, and deployment workflows
+- Turn daily practice into clear, reviewable GitHub progress
+
+---
+
+## How I Work
+
+- Break problems into smaller, testable steps
+- Trace errors back to their root cause
+- Prefer working implementations over surface-level memorization
+- Record meaningful progress through code, documentation, and commits
 
 ---
 
